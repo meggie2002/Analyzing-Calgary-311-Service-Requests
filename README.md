@@ -1,6 +1,9 @@
 # 311 SERVICE REQUESTS
 311 is a non-emergency government service that helps citizens to report issues and access city information. It can be accessed by phone, online, or through mobile apps and often includes multilingual support and services for vulnerable populations like the senior residents. The 311 system collects all requests, which are then routed to the responsible city department for resolution. It operates 24/7 and allows users to track the progress of their requests, ensuring transparency and accountability. Thus the 311 services make the lives of the residents easier and saves their time by eliminating the need to contact multiple departments for resolving their concerns. The user-friendly interface of 311 also makes the communication with the local government effortless, convenient and accessible for everyone.
 
+## CONTRIBUTORS
+- Anitha Joseph
+- Jincy Thomas
 
 ## DATA ANALYSIS
 Analysis of 311 data over a long period of time helps us in determining the most frequent service requests which can be addressed more efficiently by allocating adequate resources. This can also be used to identify the efficiencies of different departments and the gaps where improvement is required. Seasonal patterns and long term trends can also be identified which can be used to predict the future demands and optimize the public services. By tracking types of requests, response times, and areas with frequent complaints, resources can be allocated more effectively, and operational inefficiencies can be identified and resolved. The residents will get a clear picture regarding the handling of their concerns which promotes transparency. Proactive planning is made possible, allowing for better resource distribution and improved service delivery. Ultimately, systemic issues can be identified, and solutions can be developed,leading to improved city planning and enhanced community satisfaction.
@@ -83,12 +86,8 @@ The analysis shows that service requests peak in Summer and Autumn. "Operational
 Requests are higher on weekends, mainly coming from Email and Social Media, with few from the web. The volume of requests peaked in mid-2023, dipped, rose slightly in 2024, then steadily dropped. Roads and Water Services have the longest delays, showing bottlenecks. The Finance department is the most engaged in addressing requests.
 
 ## SUGGESTIONS
-
-1. address the identified bottlenecks in Roads and Water Services, we recommend increasing resources and improving processes in these areas to reduce delays
+1. Address the identified bottlenecks in Roads and Water Services, we recommend increasing resources and improving processes in these areas to reduce delays
 2. Considering the seasonal peaks and weekend surges in service requests, it is essential to plan for increased staffing and resource allocation during these times.
 3. Although this analysis provides valuable insights, further investigation into the specific causes of delays in infrastructure services is needed to develop more targeted solutions.
 
-## CONTRIBUTORS
-- [Anitha Joseph]
-- [Jincy Thomas]
 
