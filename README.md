@@ -9,7 +9,7 @@
 Analysis of 311 data over a long period of time helps us in determining the most frequent service requests which can be addressed more efficiently by allocating adequate resources. This can also be used to identify the efficiencies of different departments and the gaps where improvement is required. Seasonal patterns and long term trends can also be identified which can be used to predict the future demands and optimize the public services. By tracking types of requests, response times, and areas with frequent complaints, resources can be allocated more effectively, and operational inefficiencies can be identified and resolved. The residents will get a clear picture regarding the handling of their concerns which promotes transparency. Proactive planning is made possible, allowing for better resource distribution and improved service delivery. Ultimately, systemic issues can be identified, and solutions can be developed,leading to improved city planning and enhanced community satisfaction.
 
 ## REPO PURPOSE:
-This is a Python Project for Analysis and Visualization of "311 Service Requests" submitted for The City Of Calgary. It includes data analysis and visualization for 311 Service Requests of Calgary for the years 2023 and 2024.
+This is a Python Project for Analysis and Visualization of "311 Service Requests". It includes data analysis and visualization for 311 Service Requests of Calgary for the years 2023 and 2024.
   
 ## Files Included/used in the Repo: 
 1. Documents Folder:
